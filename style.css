@@ -1,0 +1,10 @@
+body{
+    background-color: magenta;
+    color:whitesmoke;
+}
+
+button{
+    background-color: aliceblue;
+    color:black;
+    width:400px;
+}
